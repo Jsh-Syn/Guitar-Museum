@@ -15,3 +15,4 @@ A very simple practice project using HTML, CSS, and Bootstrap 5.
 
 
 ## Video
+https://youtu.be/EzFBxRKrKg0
