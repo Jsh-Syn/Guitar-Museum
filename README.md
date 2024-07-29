@@ -12,3 +12,7 @@ A very simple practice project using HTML, CSS, and Bootstrap 5.
 ![image](https://github.com/user-attachments/assets/fc30b98f-fff8-4f5e-afae-3d0a08935cad)
 ![image](https://github.com/user-attachments/assets/cc529521-2747-41a0-952b-a01fd3f028b2)
 ![image](https://github.com/user-attachments/assets/a6f1542a-1730-4b19-a24b-0ed57757f638)
+
+
+## Video
+https://youtu.be/EzFBxRKrKg0
